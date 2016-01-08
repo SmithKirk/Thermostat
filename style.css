@@ -1,0 +1,19 @@
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+#temperature{
+  text-shadow: 2px 2px #000000
+}
+
+body{
+  background-color: #b0d7e3
+}
